@@ -1,0 +1,13 @@
+.EFD_Logo_pdf {
+    z-index: 99;
+    background-image: url(../media/iconos/logo-pdf.png);
+    background-repeat: no-repeat;
+    background-size: 55px auto;
+    background-position: center;
+    position: inherit;
+    width: 100%;
+    height: 50px !important;
+    background-position-x: center;
+    background-position-y: center;
+    margin: 0;
+}
